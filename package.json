@@ -1,0 +1,8 @@
+{
+  "name": "hubot-nullchat",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Matt Feldman <decaprime@gmail.com>",
+  "description": "Hubot-Nullchat Adapter",
+  "main": "./src/nullchat"
+}
